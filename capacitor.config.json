@@ -1,1 +1,9 @@
-{"appId":"com.rythm.app","appName":"RYTHM","webDir":"public","server":{"androidScheme":"https"}}
+{
+  "appId": "com.khaidan.rythm.apk",
+  "appName": "RYTHM",
+  "webDir": "public",
+  "server": {
+    "url": "https://rythm-apk2.khaidananggara.workers.dev",
+    "cleartext": true
+  }
+}
